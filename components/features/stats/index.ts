@@ -1,0 +1,5 @@
+export { StatsOverview } from './stats-overview'
+export { CountriesMap } from './countries-map'
+export { YearlyChart } from './yearly-chart'
+export { TripTimeline } from './trip-timeline'
+export { TopDestinations } from './top-destinations'
